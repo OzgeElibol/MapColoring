@@ -10,6 +10,8 @@ colors = []
 colors_of_nodes = {}
 wait_time = 2
 iteration = []
+
+
 # GUI operations
 root = Tk()
 root.title('COLORS')
